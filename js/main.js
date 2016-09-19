@@ -10,6 +10,7 @@ $(function () {
         addPatient(patient);
     })
 });
+//tekst dodatkowy
 
 function addPatient(patient) {
     $("#patients-list")
